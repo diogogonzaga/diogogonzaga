@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" alt="PHP">
   <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" alt="C++">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="80" alt="Bootstrap">
-  <img src="https://img.icons8.com/color/2x/mysql.png" width="80" alt="Bootstrap">
+  <img src="https://img.icons8.com/color/2x/mysql.png" width="80" alt="Mysql">
 </table>
 
 ---
