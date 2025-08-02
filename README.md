@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Diogo Gonzaga
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogogonzaga&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogogonzaga&layout=compact)
 ### Tecnologias que uso:
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -9,6 +10,7 @@
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ---
