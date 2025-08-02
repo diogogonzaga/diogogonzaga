@@ -1,17 +1,17 @@
 ## Olá! Eu sou o Diogo Gonzaga
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogogonzaga&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogogonzaga&layout=compact)
-### Tecnologias que uso:
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
+<table>
+  <a href="https://github.com/leehxd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogogonzaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogogonzaga&layout=compact&langs_count=6&theme=tokyonight"/>
+    <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="120" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="120" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="120" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="120" alt="PHP">
+  <img <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="120" alt="C++">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+</table>
 
 ---
 
