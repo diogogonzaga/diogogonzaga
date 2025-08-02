@@ -18,7 +18,7 @@
 ### Em aprendizagem:
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
