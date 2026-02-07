@@ -3,6 +3,7 @@
 🎓 **Estudante do ISPGaya**  
 💻 Desenvolvedor em crescimento, apaixonado por tecnologia e aprendizagem contínua  
 🚀 Sempre à procura de melhorar código, lógica e boas práticas
+teste
 
 ---
 
