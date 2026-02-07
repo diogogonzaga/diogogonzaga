@@ -16,6 +16,7 @@ I have some personal projects that have been **very well received**.
   <a href="https://github.com/diogogonzaga">
     <img src="https://img.shields.io/badge/GitHub-diogogonzaga-181717?style=for-the-badge&logo=github" />
   </a>
+  <br>
   <a href="https://instagram.com/dgzin_gz">
     <img src="https://img.shields.io/badge/Instagram-@dgzin_gz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
