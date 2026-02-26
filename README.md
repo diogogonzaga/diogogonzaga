@@ -3,7 +3,7 @@
 🚀 **Student of Information |**  
 🇵🇹 Portugal
 
-I am a **student**fascinated by the **field of programming**.  
+I am a **student** fascinated by the **field of programming**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
 I have some personal projects that have been **very well received**.
