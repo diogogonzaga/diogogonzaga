@@ -56,7 +56,6 @@ I have some personal projects that have been **very well received**.
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ### In learning
 
